@@ -5,7 +5,7 @@
 #I have been programming for about 4-5 years with experience using a number of languages including but not limited to:
 #
 #Language-------Level
-#Python...........Pretty good
+#Python..........Pretty good
 #C...................Amateur+
 #C++...............Amateur+
 #C#.................Amateur++
