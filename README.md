@@ -6,14 +6,14 @@
 #
 #I have been programming for about 4-5 years with experience using a number of languages including but not limited to:
 #
-#Language      Level
-#Python       	Pretty good
-#C            	Amateur+
-#C++          	Amateur+
-#C#           	Amateur++
-#Java         	Amateur++ 
-#Javascript   	Beginner+
-#Bash        	Beginner
+#Language.......Level
+#Python.........Pretty good
+#C..............Amateur+
+#C++............Amateur+
+#C#.............Amateur++
+#Java...........Amateur++ 
+#Javascript.....Beginner+
+#Bash...........Beginner
 #  
 #I'm sure I will get much better over the years as I'm #keenaf and won't be slowing down until my brain gives up on me.
 #
